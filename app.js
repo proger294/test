@@ -1,3 +1,3 @@
 console.log('ewfwe')
 
-console.log(создали на гит ха)
+console.log("пушнул в гит")
